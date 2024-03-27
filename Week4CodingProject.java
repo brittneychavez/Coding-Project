@@ -266,7 +266,7 @@ public static boolean whichArrayIsGreater (double [] digits1, double [] digits2)
 //		then returned the average of the first array, and the second array, and then saw if the 
 //		average of the first array was greater than the average of the second array. 
 //		First array: 83 / 5 = 16.6
-//		Second array: 98 / 5 = 19.6. So the average of array 1 is not greater than the average of
+//		Second array: 88 / 5 = 17.6. So the average of array 1 is not greater than the average of
 //		array 2. Therefore false is returned. 
 
 //		12. Write a method called willBuyDrink that takes a boolean isHotOutside, and a 
