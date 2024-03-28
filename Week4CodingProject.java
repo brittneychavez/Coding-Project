@@ -312,7 +312,7 @@ public static boolean whichArrayIsGreater (double [] digits1, double [] digits2)
 //		boolean isMonday = false;
 //		boolean isTuesday = true;
 //		int tempOutside = 26;
-//		This ends up running as true since ith as to be either Monday or Tuesday, which it is
+//		This ends up running as true since it as to be either Monday or Tuesday, which it is
 //		Tuesday, and the temperature is 26, which is less than 27. 
 		
 //		This coding project didn't ask me to, but I did end up printing everything out to the console
